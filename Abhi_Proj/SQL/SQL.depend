@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565448434 source:h:\data\backup\projects\abhishek\abhishek\c_program_a_2019\abhi_proj\sql\main.cpp
+	<iostream>
+	"mysql.h"
+
