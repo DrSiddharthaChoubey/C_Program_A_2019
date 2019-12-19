@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564727374 source:d:\c_program_a_2019\diksha_c\diksha\my first program.c
+	<stdio.h>
+	<conio.h>
+
+1566215299 source:d:\c_program_a_2019\practice\operator.c
+	<stdio.h>
+	<conio.h>
+
